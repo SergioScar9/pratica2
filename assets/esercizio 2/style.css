@@ -1,0 +1,92 @@
+#container {
+  display: flex;
+  background-color: #5e5e6d;
+}
+.back-up img {
+  width: 170px;
+  padding-left: 20px;
+}
+.child {
+  color: aliceblue;
+  margin: 1em;
+}
+.back-up {
+  background-color: rgb(52, 52, 77);
+}
+.shop-orange {
+  background-color: #ff811b;
+  color: white;
+  text-align: center;
+  font-size: 15px;
+  margin: 30px;
+  margin-inline: 14px;
+  padding-block: 5px;
+}
+.barra-verde {
+  background-image: url(/assets/bg-image.png);
+  text-align: center;
+  padding: 40px;
+  margin-inline: 14px;
+  color: white;
+}
+
+.scritta-find {
+  color: black;
+  display: inline-block;
+  margin: 14px;
+}
+.immagini {
+  display: flex;
+  background-color: white;
+}
+.immagini img {
+  width: 310px;
+  height: 310px;
+  border-radius: 20px;
+  margin-inline: 2px;
+  margin-left: 40px;
+  box-shadow: 10px 10px 5px #dedede;
+}
+.vr img {
+  width: 1400px;
+  margin-inline: 14px;
+  margin-top: 50px;
+}
+.ScrittaPlay {
+  text-align: center;
+}
+.Play {
+  display: inline-block;
+  padding-right: 15px;
+  margin-top: 5px;
+}
+.cuffie img {
+  width: 1400px;
+  margin-inline: 14px;
+  margin-top: 20px;
+}
+.TheSound {
+  text-align: center;
+}
+.sound {
+  display: inline-block;
+  padding-right: 15px;
+  margin-top: 5px;
+}
+a {
+  color: rgb(15, 117, 143);
+}
+#fine {
+  background-color: #5e5e6d;
+  padding: 10px;
+}
+.scrittaFine {
+  color: white;
+}
+.logoFine {
+  background-color: rgb(52, 52, 77);
+  padding: 40px;
+}
+.logoFine img {
+  width: 170px;
+}
